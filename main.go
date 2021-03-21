@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	fmt.Println("test")
+	fmt.Println("test2")
 	fmt.Println(quote.Hello())
 }
