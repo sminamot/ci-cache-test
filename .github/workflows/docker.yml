@@ -27,4 +27,3 @@ jobs:
           push: true
           tags: ${{ github.repository }}:latest
           cache-from: type=registry,ref=${{ github.repository }}:latest
-          cache-to: type=inline
